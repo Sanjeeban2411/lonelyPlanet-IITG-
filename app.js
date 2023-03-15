@@ -18,14 +18,15 @@ app.get("/getdetails/:dest", async function (req, res) {
     page.click("#search-results article div a"),
     page.waitForNavigation({ waitUntil: "load" }),
   ]);
-  // let data = await page.evaluate(
-  //   () =>
-  //     document
-  //       .querySelector("*")
-  //       .outerHTML.split('<script id="__NEXT_DATA__" type="application/json">')
-  //       .pop()
-  //       .split(',"scriptLoader":[]}</script>')[0] + "}"
-  // );
+  let data = await page.evaluate(
+    () =>
+      document
+        .querySelector("*")
+        .outerHTML.split('<script id="__NEXT_DATA__" type="application/json">')
+        .pop()
+        .split(',"scriptLoader":[]}</script>')[0] + "}"
+  );
+  
 
   data = JSON.parse(data);
   // console.log(typeof data);
