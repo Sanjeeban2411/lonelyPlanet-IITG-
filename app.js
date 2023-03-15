@@ -3,6 +3,7 @@ const fs = require("fs/promises");
 const express = require("express");
 const app = express();
 
+//write the destition in the params to get the data accordingly 
 app.get("/getdetails/:dest", async function (req, res) {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();

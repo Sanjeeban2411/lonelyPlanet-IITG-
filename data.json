@@ -1,0 +1,590 @@
+{
+  "props": {
+    "pageProps": {
+      "data": {
+        "__typename": "Place",
+        "breadcrumb": [
+          { "__typename": "TitleAndSlug", "slug": "asia", "title": "Asia" },
+          { "__typename": "TitleAndSlug", "slug": "india", "title": "India" },
+          {
+            "__typename": "TitleAndSlug",
+            "slug": "india/northeast-states/meghalaya",
+            "title": "Meghalaya"
+          }
+        ],
+        "editorial": "\u003cp\u003eIrreverent Shillong was the capital of colonial and post-Independence Assam (which embraced almost the whole Northeast) until 1972, when it became capital of the newly carved-out state of Meghalaya. Since then it has developed some accoutrements of a typical modern Indian town, including a lot of concrete and some urban sprawl, but it retains\u0026nbsp;some old-time charm in certain pockets – and a strong sense of individuality and difference, with its many Christian churches and its residents' tastes for hanging out in cafes, playing and watching rock music and football, driving around in spruced-up automobiles and gambling on archery. The heart of town is Police Bazar (PB to locals) where seven roads meet at a hectic roundabout.\u003c/p\u003e\r\n",
+        "featuredImage": {
+          "__typename": "Image",
+          "alt": "Living roots bridge near Riwai village. This bridge is formed by training tree roots over years to knit together.",
+          "caption": "Living roots bridge near Riwai village. This bridge is formed by training tree roots over years to knit together.",
+          "credit": "©Mazur Travel/Shutterstock",
+          "height": 3840,
+          "name": "shutterstockRF_1080281690.jpg",
+          "title": "shutterstockRF_1080281690.jpg",
+          "url": "https://lp-cms-production.imgix.net/2022-03/shutterstockRF_1080281690.jpg",
+          "width": 5760
+        },
+        "images": null,
+        "meta": {
+          "__typename": "PlaceMetadata",
+          "isAdministrativeRegion": false,
+          "isContestedPlace": false,
+          "metaTags": [
+            {
+              "content": "https://www.lonelyplanet.com/india/northeast-states/shillong",
+              "name": "twitter:url",
+              "tag": "meta"
+            },
+            { "content": "15066760", "name": "twitter:site:id", "tag": "meta" },
+            {
+              "content": "Shillong travel",
+              "name": "twitter:title",
+              "tag": "meta"
+            },
+            {
+              "content": "@lonelyplanet",
+              "name": "twitter:site",
+              "tag": "meta"
+            },
+            {
+              "content": "Explore Shillong holidays and discover the best time and places to visit.",
+              "name": "twitter:description",
+              "tag": "meta"
+            },
+            {
+              "content": "summary_large_image",
+              "name": "twitter:card",
+              "tag": "meta"
+            },
+            {
+              "content": "https://facebook.com/lonelyplanet",
+              "property": "article:publisher",
+              "tag": "meta"
+            },
+            {
+              "content": "2022-03-10T16:58:20+00:00",
+              "property": "og:updated_time",
+              "tag": "meta"
+            },
+            {
+              "content": "https://lp-cms-production.s3.amazonaws.com/public/2022-03/shutterstockRF_1080281690.jpg?sharp=10\u0026vib=20\u0026w=1200",
+              "property": "og:image",
+              "tag": "meta"
+            },
+            {
+              "content": "Explore Shillong holidays and discover the best time and places to visit.",
+              "property": "og:description",
+              "tag": "meta"
+            },
+            {
+              "content": "Shillong travel",
+              "property": "og:title",
+              "tag": "meta"
+            },
+            {
+              "content": "https://www.lonelyplanet.com/india/northeast-states/shillong",
+              "property": "og:url",
+              "tag": "meta"
+            },
+            { "content": "website", "property": "og:type", "tag": "meta" },
+            {
+              "content": "Lonely Planet",
+              "property": "og:site_name",
+              "tag": "meta"
+            },
+            {
+              "content": "111537044496",
+              "property": "fb:app_id",
+              "tag": "meta"
+            },
+            {
+              "content": "Explore Shillong holidays and discover the best time and places to visit.",
+              "name": "description",
+              "tag": "meta"
+            },
+            { "content": "Shillong travel", "name": "title", "tag": "meta" },
+            {
+              "href": "https://www.lonelyplanet.com/india/northeast-states/shillong",
+              "rel": "canonical",
+              "tag": "link"
+            }
+          ],
+          "parentPlace": {
+            "__typename": "PlaceDogtag",
+            "title": "Meghalaya",
+            "type": "Region"
+          },
+          "redirect": null,
+          "type": "City"
+        },
+        "slug": "india/northeast-states/shillong",
+        "title": "Shillong",
+        "travelAlert": null,
+        "videos": null,
+        "metaTitle": "Shillong travel - Lonely Planet | Meghalaya, India, Asia",
+        "metatags": [
+          {
+            "content": "https://www.lonelyplanet.com/india/northeast-states/shillong",
+            "name": "twitter:url",
+            "tag": "meta"
+          },
+          { "content": "15066760", "name": "twitter:site:id", "tag": "meta" },
+          {
+            "content": "Shillong travel",
+            "name": "twitter:title",
+            "tag": "meta"
+          },
+          { "content": "@lonelyplanet", "name": "twitter:site", "tag": "meta" },
+          {
+            "content": "Explore Shillong holidays and discover the best time and places to visit.",
+            "name": "twitter:description",
+            "tag": "meta"
+          },
+          {
+            "content": "summary_large_image",
+            "name": "twitter:card",
+            "tag": "meta"
+          },
+          {
+            "content": "https://facebook.com/lonelyplanet",
+            "property": "article:publisher",
+            "tag": "meta"
+          },
+          {
+            "content": "2022-03-10T16:58:20+00:00",
+            "property": "og:updated_time",
+            "tag": "meta"
+          },
+          {
+            "content": "https://lp-cms-production.s3.amazonaws.com/public/2022-03/shutterstockRF_1080281690.jpg?sharp=10\u0026vib=20\u0026w=1200",
+            "property": "og:image",
+            "tag": "meta"
+          },
+          {
+            "content": "Explore Shillong holidays and discover the best time and places to visit.",
+            "property": "og:description",
+            "tag": "meta"
+          },
+          {
+            "content": "Shillong travel",
+            "property": "og:title",
+            "tag": "meta"
+          },
+          {
+            "content": "https://www.lonelyplanet.com/india/northeast-states/shillong",
+            "property": "og:url",
+            "tag": "meta"
+          },
+          { "content": "website", "property": "og:type", "tag": "meta" },
+          {
+            "content": "Lonely Planet",
+            "property": "og:site_name",
+            "tag": "meta"
+          },
+          { "content": "111537044496", "property": "fb:app_id", "tag": "meta" },
+          {
+            "content": "Explore Shillong holidays and discover the best time and places to visit.",
+            "name": "description",
+            "tag": "meta"
+          },
+          { "content": "Shillong travel", "name": "title", "tag": "meta" },
+          {
+            "href": "https://www.lonelyplanet.com/india/northeast-states/shillong",
+            "rel": "canonical",
+            "tag": "link"
+          }
+        ],
+        "overview": {
+          "travelAlert": null,
+          "heroImages": [
+            {
+              "__typename": "Image",
+              "alt": "Living roots bridge near Riwai village. This bridge is formed by training tree roots over years to knit together.",
+              "caption": "Living roots bridge near Riwai village. This bridge is formed by training tree roots over years to knit together.",
+              "credit": "©Mazur Travel/Shutterstock",
+              "height": 3840,
+              "name": "shutterstockRF_1080281690.jpg",
+              "title": "shutterstockRF_1080281690.jpg",
+              "url": "https://lp-cms-production.imgix.net/2022-03/shutterstockRF_1080281690.jpg",
+              "width": 5760
+            }
+          ],
+          "introduction": "\u003cp\u003eIrreverent Shillong was the capital of colonial and post-Independence Assam (which embraced almost the whole Northeast) until 1972, when it became capital of the newly carved-out state of Meghalaya. Since then it has developed some accoutrements of a typical modern Indian town, including a lot of concrete and some urban sprawl, but it retains\u0026nbsp;some old-time charm in certain pockets – and a strong sense of individuality and difference, with its many Christian churches and its residents' tastes for hanging out in cafes, playing and watching rock music and football, driving around in spruced-up automobiles and gambling on archery. The heart of town is Police Bazar (PB to locals) where seven roads meet at a hectic roundabout.\u003c/p\u003e\r\n",
+          "title": "Shillong",
+          "breadcrumbs": [
+            { "__typename": "TitleAndSlug", "slug": "asia", "title": "Asia" },
+            { "__typename": "TitleAndSlug", "slug": "india", "title": "India" },
+            {
+              "__typename": "TitleAndSlug",
+              "slug": "india/northeast-states/meghalaya",
+              "title": "Meghalaya"
+            }
+          ]
+        },
+        "stories": { "toolkit": false, "featured": null, "latest": false },
+        "attractions": [
+          {
+            "label": "Attractions",
+            "action": "/india/northeast-states/shillong/attractions",
+            "items": [
+              {
+                "eyebrow": "See",
+                "title": "Don Bosco Museum of Indigenous Cultures",
+                "description": "This well-displayed museum is a fabulous repository of tribal artefacts interspersed with exhibits on Christian missionary work. The self-guided visit…",
+                "href": "/india/northeast-states/shillong/attractions/don-bosco-museum-of-indigenous-cultures/a/poi-sig/1294007/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "Khasi Hills Archery Sports Institute",
+                "description": "This is the venue for a 50-person archery event whose outcome is the subject of a highly popular betting game in Shillong, known as Thoh Tim or Teer or…",
+                "href": "/india/northeast-states/shillong/attractions/khasi-hills-archery-sports-institute/a/poi-sig/1613758/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "Wankhar Entomology Museum",
+                "description": "This remarkable one-room display of pinned butterflies, moths, rhinoceros beetles and stick insects is housed in the home of the original collector. Most…",
+                "href": "/india/northeast-states/shillong/attractions/wankhar-entomology-museum/a/poi-sig/1151769/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "Ward’s Lake",
+                "description": "The central landscaping element of colonial-era Shillong, this attractive lake has a pretty ornamental bridge, adjacent flower beds and manicured lawns,…",
+                "href": "/india/northeast-states/shillong/attractions/ward-s-lake/a/poi-sig/1151760/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "Shillong Golf Course",
+                "description": "Walk 2km northeast of Police Bazar to stroll the rolling meadows of Shillong Golf Course, bordered by pine trees and overlooked by a pretty clubhouse. You…",
+                "href": "/india/northeast-states/shillong/attractions/shillong-golf-course/a/poi-sig/1348171/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "Pinewood Hotel",
+                "description": "The centrally located Pinewood Hotel is a 1920s tea-growers' retreat that is particularly representative of colonial-era architecture. It's now a state…",
+                "href": "/india/northeast-states/shillong/attractions/pinewood-hotel/a/poi-sig/1293995/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "Presbyterian Church",
+                "description": "The Presbyterian Church, perched above Police Bazar, is a graceful structure in whose grounds stands a statue of Thomas Jones, the still-revered Welsh…",
+                "href": "/india/northeast-states/shillong/attractions/presbyterian-church/a/poi-sig/1348014/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "All Saints’ Cathedral",
+                "description": "The 1902 All Saints’ Cathedral would look perfect pictured on a biscuit tin.",
+                "href": "/india/northeast-states/shillong/attractions/all-saints-cathedral/a/poi-sig/1151765/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              },
+              {
+                "eyebrow": "See",
+                "title": "Ward's Lake Gate No 1",
+                "description": "An entrance to Ward's Lake.",
+                "href": "/india/northeast-states/shillong/attractions/ward-s-lake-gate-no-1/a/poi-sig/1613829/356424",
+                "label": "Attractions",
+                "slug": "attractions"
+              }
+            ]
+          },
+          {
+            "label": "Restaurants",
+            "action": "/india/northeast-states/shillong/restaurants",
+            "items": [
+              {
+                "eyebrow": "Eat",
+                "title": "Dylan's Cafe",
+                "description": "An ample 1st-floor space with couches, bean bags and terrace tables looking out on the leafy surrounds, Dylan's serves good coffee and juices, breakfasts…",
+                "href": "/india/northeast-states/shillong/restaurants/dylan-s-cafe/a/poi-eat/1613754/356424",
+                "label": "Restaurants",
+                "slug": "restaurants"
+              },
+              {
+                "eyebrow": "Eat",
+                "title": "Trattoria",
+                "description": "There's no better way to sample local Khasi flavours than by dropping in for lunch at this busy place. Jadoh (sticky rice stewed in pig blood) and curried…",
+                "href": "/india/northeast-states/shillong/restaurants/trattoria/a/poi-eat/1348095/356424",
+                "label": "Restaurants",
+                "slug": "restaurants"
+              },
+              {
+                "eyebrow": "Eat",
+                "title": "City Hut Dhaba",
+                "description": "City Hut's smart, efficient waiters serve generous portions of varied Indian, Chinese and barbecue dishes in four clean and agreeable rooms, including a…",
+                "href": "/india/northeast-states/shillong/restaurants/city-hut-dhaba/a/poi-eat/1151782/356424",
+                "label": "Restaurants",
+                "slug": "restaurants"
+              },
+              {
+                "eyebrow": "Eat",
+                "title": "Barbecue Chinese Restaurant",
+                "description": "This is a reliable stop for all Chinese standards, served by efficient waiters in atmospheric surrounds with brick walls, wood panelling, mirrors and a…",
+                "href": "/india/northeast-states/shillong/restaurants/barbecue-chinese-restaurant/a/poi-eat/1613755/356424",
+                "label": "Restaurants",
+                "slug": "restaurants"
+              },
+              {
+                "eyebrow": "Eat",
+                "title": "La Galerie",
+                "description": "The suave glass-panelled main restaurant in Hotel Centre Point is compartmentalised into two-table booths and adorned with local photographs. Excellent…",
+                "href": "/india/northeast-states/shillong/restaurants/la-galerie/a/poi-eat/1151788/356424",
+                "label": "Restaurants",
+                "slug": "restaurants"
+              },
+              {
+                "eyebrow": "Eat",
+                "title": "Lamee Restaurant",
+                "description": "With a relaxed, pleasant atmosphere, this neat, no-nonsense restaurant serves a tasty mix of Indian and Chinese meals.",
+                "href": "/india/northeast-states/shillong/restaurants/lamee-restaurant/a/poi-eat/1151784/356424",
+                "label": "Restaurants",
+                "slug": "restaurants"
+              }
+            ]
+          },
+          {
+            "label": "Shopping",
+            "action": "/india/northeast-states/shillong/shopping",
+            "items": [
+              {
+                "eyebrow": "Shop",
+                "title": "Iew Duh",
+                "description": "The vast, crowded public market area (bara bazar means 'big market') is one of the most animated shopping areas in the Northeast. You'll reach it about 1…",
+                "href": "/india/northeast-states/shillong/shopping/iew-duh/a/poi-sho/1151771/356424",
+                "label": "Shopping",
+                "slug": "shopping"
+              },
+              {
+                "eyebrow": "Shop",
+                "title": "National Book Agency",
+                "description": "This well-stocked shop has a comprehensive English-language catalogue with Indian and international fiction, plus a few Lonely Planet guidebooks.",
+                "href": "/india/northeast-states/shillong/shopping/national-book-agency/a/poi-sho/1152116/356424",
+                "label": "Shopping",
+                "slug": "shopping"
+              }
+            ]
+          }
+        ],
+        "points": [
+          {
+            "coordinates": { "lat": 25.593426, "lon": 91.882567 },
+            "heading": "Don Bosco Museum of Indigenous Cultures",
+            "title": "Don Bosco Museum of Indigenous Cultures",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/don-bosco-museum-of-indigenous-cultures/a/poi-sig/1294007/356424"
+            },
+            "image": {
+              "url": null,
+              "alt": "Don Bosco Museum of Indigenous Cultures"
+            },
+            "description": "This well-displayed museum is a fabulous repository of tribal artefacts interspersed with exhibits on Christian missionary work. The self-guided visit…"
+          },
+          {
+            "coordinates": { "lat": 25.578476, "lon": 91.895378 },
+            "heading": "Khasi Hills Archery Sports Institute",
+            "title": "Khasi Hills Archery Sports Institute",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/khasi-hills-archery-sports-institute/a/poi-sig/1613758/356424"
+            },
+            "image": {
+              "url": null,
+              "alt": "Khasi Hills Archery Sports Institute"
+            },
+            "description": "This is the venue for a 50-person archery event whose outcome is the subject of a highly popular betting game in Shillong, known as Thoh Tim or Teer or…"
+          },
+          {
+            "coordinates": { "lat": 25.581592, "lon": 91.880143 },
+            "heading": "Wankhar Entomology Museum",
+            "title": "Wankhar Entomology Museum",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/wankhar-entomology-museum/a/poi-sig/1151769/356424"
+            },
+            "image": { "url": null, "alt": "Wankhar Entomology Museum" },
+            "description": "This remarkable one-room display of pinned butterflies, moths, rhinoceros beetles and stick insects is housed in the home of the original collector. Most…"
+          },
+          {
+            "coordinates": { "lat": 25.574982, "lon": 91.887138 },
+            "heading": "Ward’s Lake",
+            "title": "Ward’s Lake",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/ward-s-lake/a/poi-sig/1151760/356424"
+            },
+            "image": { "url": null, "alt": "Ward’s Lake" },
+            "description": "The central landscaping element of colonial-era Shillong, this attractive lake has a pretty ornamental bridge, adjacent flower beds and manicured lawns,…"
+          },
+          {
+            "coordinates": { "lat": 25.587195, "lon": 91.896644 },
+            "heading": "Shillong Golf Course",
+            "title": "Shillong Golf Course",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/shillong-golf-course/a/poi-sig/1348171/356424"
+            },
+            "image": { "url": null, "alt": "Shillong Golf Course" },
+            "description": "Walk 2km northeast of Police Bazar to stroll the rolling meadows of Shillong Golf Course, bordered by pine trees and overlooked by a pretty clubhouse. You…"
+          },
+          {
+            "coordinates": { "lat": 25.575914861843, "lon": 91.889594261125 },
+            "heading": "Pinewood Hotel",
+            "title": "Pinewood Hotel",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/pinewood-hotel/a/poi-sig/1293995/356424"
+            },
+            "image": { "url": null, "alt": "Pinewood Hotel" },
+            "description": "The centrally located Pinewood Hotel is a 1920s tea-growers' retreat that is particularly representative of colonial-era architecture. It's now a state…"
+          },
+          {
+            "coordinates": { "lat": 25.575427, "lon": 91.884134 },
+            "heading": "Presbyterian Church",
+            "title": "Presbyterian Church",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/presbyterian-church/a/poi-sig/1348014/356424"
+            },
+            "image": { "url": null, "alt": "Presbyterian Church" },
+            "description": "The Presbyterian Church, perched above Police Bazar, is a graceful structure in whose grounds stands a statue of Thomas Jones, the still-revered Welsh…"
+          },
+          {
+            "coordinates": { "lat": 25.56944453, "lon": 91.88461668 },
+            "heading": "All Saints’ Cathedral",
+            "title": "All Saints’ Cathedral",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/all-saints-cathedral/a/poi-sig/1151765/356424"
+            },
+            "image": { "url": null, "alt": "All Saints’ Cathedral" },
+            "description": "The 1902 All Saints’ Cathedral would look perfect pictured on a biscuit tin."
+          },
+          {
+            "coordinates": { "lat": 25.574827, "lon": 91.887599 },
+            "heading": "Ward's Lake Gate No 1",
+            "title": "Ward's Lake Gate No 1",
+            "type": "attractions",
+            "link": {
+              "href": "/india/northeast-states/shillong/attractions/ward-s-lake-gate-no-1/a/poi-sig/1613829/356424"
+            },
+            "image": { "url": null, "alt": "Ward's Lake Gate No 1" },
+            "description": "An entrance to Ward's Lake."
+          },
+          {
+            "coordinates": { "lat": 25.566165, "lon": 91.894455 },
+            "heading": "Dylan's Cafe",
+            "title": "Dylan's Cafe",
+            "type": "restaurants",
+            "link": {
+              "href": "/india/northeast-states/shillong/restaurants/dylan-s-cafe/a/poi-eat/1613754/356424"
+            },
+            "image": { "url": null, "alt": "Dylan's Cafe" },
+            "description": "An ample 1st-floor space with couches, bean bags and terrace tables looking out on the leafy surrounds, Dylan's serves good coffee and juices, breakfasts…"
+          },
+          {
+            "coordinates": { "lat": 25.576269, "lon": 91.88217 },
+            "heading": "Trattoria",
+            "title": "Trattoria",
+            "type": "restaurants",
+            "link": {
+              "href": "/india/northeast-states/shillong/restaurants/trattoria/a/poi-eat/1348095/356424"
+            },
+            "image": { "url": null, "alt": "Trattoria" },
+            "description": "There's no better way to sample local Khasi flavours than by dropping in for lunch at this busy place. Jadoh (sticky rice stewed in pig blood) and curried…"
+          },
+          {
+            "coordinates": { "lat": 25.577343, "lon": 91.885024 },
+            "heading": "City Hut Dhaba",
+            "title": "City Hut Dhaba",
+            "type": "restaurants",
+            "link": {
+              "href": "/india/northeast-states/shillong/restaurants/city-hut-dhaba/a/poi-eat/1151782/356424"
+            },
+            "image": { "url": null, "alt": "City Hut Dhaba" },
+            "description": "City Hut's smart, efficient waiters serve generous portions of varied Indian, Chinese and barbecue dishes in four clean and agreeable rooms, including a…"
+          },
+          {
+            "coordinates": { "lat": 25.575611, "lon": 91.881559 },
+            "heading": "Barbecue Chinese Restaurant",
+            "title": "Barbecue Chinese Restaurant",
+            "type": "restaurants",
+            "link": {
+              "href": "/india/northeast-states/shillong/restaurants/barbecue-chinese-restaurant/a/poi-eat/1613755/356424"
+            },
+            "image": { "url": null, "alt": "Barbecue Chinese Restaurant" },
+            "description": "This is a reliable stop for all Chinese standards, served by efficient waiters in atmospheric surrounds with brick walls, wood panelling, mirrors and a…"
+          },
+          {
+            "coordinates": { "lat": 25.575998, "lon": 91.882492 },
+            "heading": "La Galerie",
+            "title": "La Galerie",
+            "type": "restaurants",
+            "link": {
+              "href": "/india/northeast-states/shillong/restaurants/la-galerie/a/poi-eat/1151788/356424"
+            },
+            "image": { "url": null, "alt": "La Galerie" },
+            "description": "The suave glass-panelled main restaurant in Hotel Centre Point is compartmentalised into two-table booths and adorned with local photographs. Excellent…"
+          },
+          {
+            "coordinates": { "lat": 25.575553, "lon": 91.881291 },
+            "heading": "Lamee Restaurant",
+            "title": "Lamee Restaurant",
+            "type": "restaurants",
+            "link": {
+              "href": "/india/northeast-states/shillong/restaurants/lamee-restaurant/a/poi-eat/1151784/356424"
+            },
+            "image": { "url": null, "alt": "Lamee Restaurant" },
+            "description": "With a relaxed, pleasant atmosphere, this neat, no-nonsense restaurant serves a tasty mix of Indian and Chinese meals."
+          },
+          {
+            "coordinates": { "lat": 25.577334, "lon": 91.876913 },
+            "heading": "Iew Duh",
+            "title": "Iew Duh",
+            "type": "shopping",
+            "link": {
+              "href": "/india/northeast-states/shillong/shopping/iew-duh/a/poi-sho/1151771/356424"
+            },
+            "image": { "url": null, "alt": "Iew Duh" },
+            "description": "The vast, crowded public market area (bara bazar means 'big market') is one of the most animated shopping areas in the Northeast. You'll reach it about 1…"
+          },
+          {
+            "coordinates": { "lat": 25.576347, "lon": 91.882932 },
+            "heading": "National Book Agency",
+            "title": "National Book Agency",
+            "type": "shopping",
+            "link": {
+              "href": "/india/northeast-states/shillong/shopping/national-book-agency/a/poi-sho/1152116/356424"
+            },
+            "image": { "url": null, "alt": "National Book Agency" },
+            "description": "This well-stocked shop has a comprehensive English-language catalogue with Indian and international fiction, plus a few Lonely Planet guidebooks."
+          }
+        ],
+        "guidebooks": []
+      },
+      "overlay": true
+    },
+    "__N_SSP": true
+  },
+  "page": "/places/destination",
+  "query": { "place": ["india", "northeast-states", "shillong"] },
+  "buildId": "8639c8c85d44b9d8a85a200e3183286af9b1a584",
+  "isFallback": false,
+  "gssp": true,
+  "locale": "en",
+  "locales": ["en"],
+  "defaultLocale": "en"
+}
